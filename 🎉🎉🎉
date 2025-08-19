@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <title>Вітаємо!</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background: #fef8e7;
+      font-family: Arial, sans-serif;
+    }
+    h1 {
+      font-size: 2em;
+      color: #e63946;
+    }
+  </style>
+</head>
+<body>
+  <h1>Вітаємо, командо! 🎉 Ви врятували головний символ свята!</h1>
+</body>
+</html>
