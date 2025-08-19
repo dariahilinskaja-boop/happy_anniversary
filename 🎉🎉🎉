@@ -9,16 +9,23 @@
       justify-content: center;
       align-items: center;
       height: 100vh;
-      background: #fef8e7;
-      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #fff4e6;
+      font-family: 'Arial', sans-serif;
     }
     h1 {
-      font-size: 2em;
       color: #e63946;
+      font-size: 2em;
+      text-align: center;
+      padding: 20px;
+      border: 2px solid #f1faee;
+      border-radius: 15px;
+      background-color: #ffe5d9;
+      box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
     }
   </style>
 </head>
 <body>
-  <h1>Вітаємо, командо! 🎉 Ви врятували головний символ свята!</h1>
+  <h1>🎉 Вітаємо! Ви врятували головний символ свята! 🎉</h1>
 </body>
 </html>
